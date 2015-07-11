@@ -3,3 +3,13 @@ export PATH=$PATH:~/bin
 export PATH=/usr/local/cuda/bin:$PATH 
 export DYLD_LIBRARY_PATH=/usr/local/cuda/lib:$DYLD_LIBRARY_PATH
 export DYLD_LIBRARY_PATH=/usr/local/lib:$DYLD_LIBRARY_PATH
+
+# added by Algorete Loopy installer
+export PATH="Documents/K/koodaus/python/algorete/loopy/bin:$PATH"
+
+# added by Anaconda 2.1.0 installer
+export PATH="//anaconda/bin:$PATH"
+
+export PATH="/usr/gcc-5.1.0/bin:$PATH"
+
+export PATH="/usr/local/bin:$PATH"
