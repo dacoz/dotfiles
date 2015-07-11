@@ -38,4 +38,4 @@ BMAGENTA='\e[45m'
 BCYAN='\e[46m'
 BWHITE='\e[47m'
 
-PS1="\n\[$BBLACK\]\u\[$NO_COLOR\]@\[$BBLUE\]\H\[$NO_COLOR\]:\w \[$EBLACK\]\$(vcprompt)\[$NO_COLOR\] \n→ "
+PS1="\n\[$BBLACK\]\u\[$BRED\]@\[$BBLUE\]\H\[$NO_COLOR\]:\w \[$EBLACK\]\$(vcprompt)\[$NO_COLOR\] \n→ "
